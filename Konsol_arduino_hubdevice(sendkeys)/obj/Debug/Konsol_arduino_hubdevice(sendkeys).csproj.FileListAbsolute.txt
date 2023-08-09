@@ -1,0 +1,11 @@
+C:\Users\emirh\OneDrive\Masaüstü\Konsol_arduino_hubdevice(sendkeys)\bin\Debug\Konsol_arduino_hubdevice(sendkeys).exe.config
+C:\Users\emirh\OneDrive\Masaüstü\Konsol_arduino_hubdevice(sendkeys)\bin\Debug\Konsol_arduino_hubdevice(sendkeys).exe
+C:\Users\emirh\OneDrive\Masaüstü\Konsol_arduino_hubdevice(sendkeys)\bin\Debug\Konsol_arduino_hubdevice(sendkeys).pdb
+C:\Users\emirh\OneDrive\Masaüstü\Konsol_arduino_hubdevice(sendkeys)\obj\Debug\Konsol_arduino_hubdevice(sendkeys).csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\Konsol_arduino_hubdevice(sendkeys)\obj\Debug\Konsol_arduino_hubdevice(sendkeys).csproj.SuggestedBindingRedirects.cache
+C:\Users\emirh\OneDrive\Masaüstü\Konsol_arduino_hubdevice(sendkeys)\obj\Debug\Konsol_arduino_hubdevice_sendkeys_.Form1.resources
+C:\Users\emirh\OneDrive\Masaüstü\Konsol_arduino_hubdevice(sendkeys)\obj\Debug\Konsol_arduino_hubdevice_sendkeys_.Properties.Resources.resources
+C:\Users\emirh\OneDrive\Masaüstü\Konsol_arduino_hubdevice(sendkeys)\obj\Debug\Konsol_arduino_hubdevice(sendkeys).csproj.GenerateResource.cache
+C:\Users\emirh\OneDrive\Masaüstü\Konsol_arduino_hubdevice(sendkeys)\obj\Debug\Konsol_arduino_hubdevice(sendkeys).csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\Konsol_arduino_hubdevice(sendkeys)\obj\Debug\Konsol_arduino_hubdevice(sendkeys).exe
+C:\Users\emirh\OneDrive\Masaüstü\Konsol_arduino_hubdevice(sendkeys)\obj\Debug\Konsol_arduino_hubdevice(sendkeys).pdb
